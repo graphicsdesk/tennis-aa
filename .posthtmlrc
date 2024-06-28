@@ -7,12 +7,220 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The men’s tennis team had one of its most successful seasons to date this past spring. Although its history-making performance accompanied the loss of blue-chip recruit Connor Church, who verbally committed to the University of Southern California after the winter, the Lions still boast a top-10 caliber 2024 recruiting class."
+          },
+          {
+            "type": "text",
+            "value": "Heading into the fall, the new Lions all have the same goal in mind: to win a national championship."
+          },
+          {
+            "type": "text",
+            "value": "“We are excited for our first-year players to arrive in the Fall. We feel that they all fit our culture and are dedicated and committed to reaching their potential - both in the classroom and on the tennis court,” head coach Howard Endelman, CC ’87, wrote in a statement to Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Endelman took on the role of head coach in 2019, and under his tutelage, the Lions not only regained their winning ways but exceeded them, as displayed by their achievements this past season. But one of the ways Endelman continues to win happens off the court, with his ability to recruit some of the top junior tennis players in the world."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "line.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "While this year’s recruitment class has the lowest incoming national ranking so far in Endelman’s five-year tenure, it should be noted that two of the four players in this class were deemed unranked due to their lack of junior competitions in the United States. Instead, their high International Tennis Federation junior rankings and competitive schedules speak for themselves."
+          },
+          {
+            "type": "text",
+            "value": "Regardless of rank, the character of this class will be under even more scrutiny than those of prior years, considering the squad faces the daunting task of topping a season that was arguably the program’s best yet."
+          },
+          {
+            "type": "text",
+            "value": "The incoming class consists of four highly touted junior prospects. While two of the future Lions originate from around New York City, the other two will be the first of their respective countries to be recruited by Endelman. Incoming first-year Thanaphat “Putter” Boosarawongse will be farthest from home on the team next year—a reality he’s been used to since the age of 13."
+          },
+          {
+            "type": "text",
+            "value": "Growing up in Thailand, “Putter” received his nickname from being an avid golfer. While his parents wanted him to play the sport early on, Boosarawongse had other ideas. As a child, Boosarawongse was stuck watching outside the tennis court fences at his local sports club. At around the age of eight or nine, his parents gave in to his interest, which quickly paid off."
+          },
+          {
+            "type": "text",
+            "value": "Only three years after picking up the sport, he competed in the Orange Bowl International Tennis Championships, one of the largest junior tournaments in the world—won by the likes of Roger Federer, Coco Gauff, and John McEnroe. After an impressive showing, IMG Academy, one of the most prestigious sporting academies in the world, presented the Thai junior with a full scholarship."
+          },
+          {
+            "type": "text",
+            "value": "“Right away me and my parents decided to make the move. … It was a pretty big change, but I think it was the right move because it gave me the opportunity to mature, to learn how to handle myself, and to also to understand how to live with people,” Boosarawongse said. “It helped me a lot to become a better person.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/W2IRZLNOQNB47M5XNBTOPFTT64.jpeg",
+              "caption": "IMG Academy—where Boosarawongse has trained over the past five years—is considered one of the most decorated sporting academies in the world.",
+              "credit": "Thanaphat Boosarawomgse"
+            }
+          },
+          {
+            "type": "text",
+            "value": "During his time at IMG Academy, he reached a high of 87 in the world according to International Tennis Federation rankings earlier this year and was able to join one of the best tennis collegiate programs in the country as a result. But with this decision came the harsh reality of adjusting to unfamiliar cultures and only seeing his parents a few times a year."
+          },
+          {
+            "type": "text",
+            "value": "Now, with a better understanding of living in America—and a better understanding of himself—Boosarawongse is ready to be a part of something much bigger than just individual competition. He’s ready to compete and add to a culture."
+          },
+          {
+            "type": "text",
+            "value": "“It’s funny because in tennis, it’s such an individual sport,” Boosarawongse said. “It’s going to be a big step in personal growth where you’re looking at tennis from a different outlook. It’s not always about beating everybody, it’s about a team. It’s about getting the team to the top and the best position that the team can be.”"
+          },
+          {
+            "type": "text",
+            "value": "Fellow classmate JungHee You might also experience a cultural adjustment: The Montreal native is part of a recent rise in Canadian tennis, with the likes of Milos Raonic, Bianca Andreescu, and Felix Auger-Aliassime shining in the professional circuit. In the flanks, Canadians like You are motivated by those competing at the higher level."
+          },
+          {
+            "type": "text",
+            "value": "“It inspires us, as the new generation, to push more,” You said. “It kind of made me inspired that I could do it. I can make it to that level. … I think that’s a great thing for tennis in Canada.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/HW6XACME7NBVBILWFV4SHSXN3I.jpeg",
+              "caption": "You boasts an impressive 7-2 record against Blue Chip recruits throughout his junior career.",
+              "credit": "JungHee You"
+            }
+          },
+          {
+            "type": "text",
+            "value": "The conditions You trained under varied from those of his American counterparts. He spent the majority of the year playing on indoor courts, which meant less exposure to the elements."
+          },
+          {
+            "type": "text",
+            "value": "An indoor environment resulted in points being faster and shots being harder and more accurate, which cultivated You’s aggressive playstyle when training and competing. Incredibly, his junior career was enough time to gain the attention of Endelman and his staff."
+          },
+          {
+            "type": "text",
+            "value": "After committing, members of the current squad reached out to You with words of encouragement and support, which made him want to become a Lion even more."
+          },
+          {
+            "type": "text",
+            "value": "“I would say for me just mostly excitement, pressure a little bit of course,” You said of coming to Columbia. “It’s definitely my first year, so pressure, but mostly excitement and wanting to compete along with the other guys.”"
+          },
+          {
+            "type": "text",
+            "value": "The other two incoming first-years, Andrew Kotzen and Jordan Chang, are equally excited about becoming Lions and competing. Both players grew up in the same city that they will be representing in the fall."
+          },
+          {
+            "type": "text",
+            "value": "For both Chang and his parents, being able to compete at the highest level of collegiate tennis and having the freedom to pursue academic endeavors at an Ivy League institution provides a level of comfort. Ultimately, the decision to commit to Columbia was one that came with little hesitation for this Blue Chip recruit."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia kind of just speaks for itself. The name of the school, the academics, the team. Everything kind of just clicks together and when I stepped foot on campus, when I saw it, I mean, it was just beautiful,” Chang said. “But also I love the guys on the team. They built a culture that I really want to build upon.”"
+          },
+          {
+            "type": "text",
+            "value": "Chang grew up training at the John McEnroe Tennis Academy, a roughly 20-minute drive from where he will be training next year. Competing in the area, he was also very close with rising juniors Michael Zheng and Stanly Shukhman, serving as a hitting partner for Zheng’s U.S. Open qualifying campaign last year. As a result of those relationships, Zheng and Shukhman were key motivators for Chang to spend the next four years in Morningside Heights."
+          },
+          {
+            "type": "text",
+            "value": "“Stanly has been always in touch with me, kind of even helped me as a person in general. He was always there for me,” Chang said. “I would give credit to him.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/AAV5SIHCNZCGPD3PB34KZ2G77I.jpeg",
+              "caption": "At the 2023 U.S. Open, Chang served as hitting partner for World No.11 Stefanos Tsitsipas and World No.9 Alex de Minaur.",
+              "credit": "Jordan Chang"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Chang was not always a highly touted prospect. When Endelman and his staff first reached out to the native New Yorker, he was only a four-star recruit. But after two huge performances that same year, the future Lion fully committed to a strict work ethic that saw him not only climb the rankings at the junior level but also become a top recruit in the nation. Sought after by Yale, Purdue University, and Brown, Chang fully bought into Columbia’s team because of the culture it exuded."
+          },
+          {
+            "type": "text",
+            "value": "“I think on and off the court, everyone really bonds with each other well. I can tell some other teams where I visited are kind of separated a little bit in terms of their hobbies or whatever it may be,” Chang said. “But Columbia, I feel like they really get along with each and every one of them. They’re inclusive. They treat each other as family.”"
+          },
+          {
+            "type": "text",
+            "value": "Columbia’s team culture and chemistry are major reasons for its recent success. The Lions boasted an impressive 8-2 record on the road this past season, defeating the likes of Wake Forest University and the University of North Carolina at Chapel Hill. For a team to be this successful away from home, a strong cohesiveness and culture need to be at its core."
+          },
+          {
+            "type": "text",
+            "value": "But for Andrew Kotzen, this culture is something that he has become accustomed to since his older brother Alex Kotzen began playing at Columbia in 2019."
+          },
+          {
+            "type": "text",
+            "value": "“I’ve just been around the area for my whole life growing up, and I love Columbia,” Andrew Kotzen said. “Seeing my brothers thrive on the team and do so well, it inspired me, and it made me want to join the team even more. But it’s also even more special to be able to play with Nick.”"
+          },
+          {
+            "type": "text",
+            "value": "Andrew Kotzen will be the third member in his family to play tennis at Columbia after Alex and his other older brother, returning junior Nick Kotzen. Both Alex and Nick have left an indelible mark on the program, with Alex Kotzen, who graduated in 2023, being ranked as high as No. 7 in the country and Nick being an All-Ivy caliber player as well. Nevertheless, Alex is sure that his youngest brother will be more than prepared to carry the weight of representing the best team in the Ancient Eight."
+          },
+          {
+            "type": "text",
+            "value": "“He should just enjoy it and trust me with the amount we play and work, he’s gonna get way better,” Alex Kotzen said. “I don't think there’s any pressure on him, but if for some reason he feels pressure I guess that’s kudos to me and Nick for doing all right.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QBSERVSZLNG45ACFA6KCMVBQ7Q.jpg",
+              "caption": "Andrew Kotzen attended the Cathedral School of St. John the Divine, less than five blocks away from the Morningside campus.",
+              "credit": "Andrew Kotzen"
+            }
+          },
+          {
+            "type": "text",
+            "value": "While there is pressure to live up to such expectations at Columbia, Andrew Kotzen chose to ignore that pressure in favor of focusing on what he could control."
+          },
+          {
+            "type": "text",
+            "value": "“You just want to do what you can to be the best player you can be,” Andrew Kotzen said. “Honestly, I use it to my advantage. It’s rare that you have two brothers that are this good at this sport, and to be able to be the third one and build off of them is a huge advantage to me.”"
+          },
+          {
+            "type": "text",
+            "value": "The pressure that comes from being related to two decorated Columbia players does not outshine how extraordinary it is for the Kotzen family to have produced such athletes and people. While there have been brothers that have competed together at Columbia, there have never been three over such a short period of time."
+          },
+          {
+            "type": "text",
+            "value": "Being able to play alongside his brother is what Andrew Kotzen looks forward to most."
+          },
+          {
+            "type": "text",
+            "value": "“I chose Columbia also for that reason, for family too. That was a major thing. I played with Nick in high school for two years and I loved it,” Andrew said. “We’ll have to see what it’s like, but I’m looking forward to being the third one. It’s something special and it’s obviously historical. I don’t know if it’s ever happened, but it’s cool to be a part of that legacy.”"
+          },
+          {
+            "type": "text",
+            "value": "Within that legacy, Andrew Kotzen hopes to win a national title—something his oldest brother was unable to bring home during his time at Columbia. It’s a goal that all four incoming first-years clearly have the character and traits for, and the Lions’ fans will hope they can move the needle forward."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Sports Editor Takashi Williams can be contacted at </i><a href=\"mailto:takashi.williams@columbiaspectator.com\"><i>takashi.williams@columbiaspectator.com</i></a><i>. Follow him on X </i><a href=\"https://twitter.com/takashiversace\"><i>@takashiversace</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Ayaan Ali can be contacted at </i><a href=\"mailto:ayaan.ali@columbiaspectator.com\"><i>ayaan.ali@columbiaspectator.com</i></a><i>. Follow him on X </i><a href=\"http://x.com/__ayaanali\"><i>@__ayaanali</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Into the Lions’ den: A look at the incoming men’s tennis class",
+        "date": "June 28, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/takashi-williams/\">Takashi Williams</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/ayaan-ali/\">Ayaan Ali</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/BMNZ4MUHVJB27FRQK3L22D5XIM.jpg",
+        "cover_caption": "Kelsea Petersen / Illustrations Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1aseoCg7-rAe-YYzMh9VBt7MNGK_fW0cigS5RzNrmuRk/edit"
       }
     }
   }
